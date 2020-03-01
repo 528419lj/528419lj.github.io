@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://528419lj.github.io/</id>
     <title>HolseLee</title>
-    <updated>2020-03-01T12:12:09.956Z</updated>
+    <updated>2020-03-01T16:20:34.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://528419lj.github.io/"/>
     <link rel="self" href="https://528419lj.github.io/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://528419lj.github.io/images/avatar.png</logo>
     <icon>https://528419lj.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HolseLee</rights>
+    <entry>
+        <title type="html"><![CDATA[新博客开通了]]></title>
+        <id>https://528419lj.github.io/post/xin-bo-ke-kai-tong-liao/</id>
+        <link href="https://528419lj.github.io/post/xin-bo-ke-kai-tong-liao/">
+        </link>
+        <updated>2020-03-01T16:16:02.000Z</updated>
+        <content type="html"><![CDATA[<p>caiji博主的新博客开通了！！！</p>
+<p>撒花o(<em>￣▽￣</em>)ブ*</p>
+<p>以后关于学习的文章应该都会放在这里，不过关于OI的文章应该也还会写在<a href="www.cnblogs.com/cytus">以前的博客里</a>。</p>
+]]></content>
+    </entry>
 </feed>
